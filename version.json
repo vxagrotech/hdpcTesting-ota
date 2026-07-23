@@ -1,4 +1,4 @@
 {
-  "version": "1.0.0",
-  "firmware": "https://raw.githubusercontent.com/vxagrotech/hdpcT2-ota/main/firmware.bin"
+  "version": "2.0.4",
+  "firmware": "https://raw.githubusercontent.com/vxagrotech/hydroponic-ota/main/firmware.bin"
 }

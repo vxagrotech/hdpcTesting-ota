@@ -1,2 +1,2 @@
-# hdpcT2-ota
-Firmware OTA for Hdpc Tower 2 vxagrotech
+# hydroponic-ota
+Firmware OTA for Hydroponic Tower - testing
